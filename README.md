@@ -2,10 +2,6 @@
 
 ## **Live Site Down Bellow**
 
-Front End : [https://veterinary-management.vercel.app/](https://veterinary-management.vercel.app/) <br/>
-Back End : https://vet-backend-3gew.onrender.com<br/>
-Front End Repo : [https://github.com/batuhanlog/Vet-Backend](https://github.com/batuhanlog/Veterinary_Management)
-
 Front End : <a href="https://veterinary-management.vercel.app/" target="_blank" style="text-decoration: none;">İncele 🔎</a><br/> 
 Back End : <a href="https://vet-backend-3gew.onrender.com" target="_blank" style="text-decoration: none;">İncele 🔎</a><br/>
 Front End Repo : <a href="https://github.com/batuhanlog/Veterinary_Management" target="_blank" style="text-decoration: none;">İncel 🔎</a>
